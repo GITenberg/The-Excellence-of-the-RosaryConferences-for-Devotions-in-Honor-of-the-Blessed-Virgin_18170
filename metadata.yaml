@@ -1,0 +1,28 @@
+_repo: The-Excellence-of-the-RosaryConferences-for-Devotions-in-Honor-of-the-Blessed-Virgin_18170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frings, Math Josef
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '7850'
+    url: http://www.gutenberg.org/2009/agents/7850
+description: ''
+gutenberg_issued: '2006-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Rosary'
+title: 'The Excellence of the Rosary
+
+  Conferences for Devotions in Honor of the Blessed Virgin'
+url: http://www.gutenberg.org/ebooks/18170
